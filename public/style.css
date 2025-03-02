@@ -1,0 +1,40 @@
+body{
+    background-color: antiquewhite;
+}
+.curriculo{
+   display: flex;
+   justify-content: center;
+}
+h1{
+    font-family: Geneva;
+}
+h2{
+    font-family: courier;
+}
+a{
+    color: black;
+}
+.informações{
+    width: 300px;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.informações img{
+    width: 130px;
+    margin-left: 78px;
+}
+.conteudo{
+    background-color: rgb(255, 246, 234);
+    height: 100vh;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.texto{
+    padding-top: 10px;
+}
+
+
+    
+
+
+

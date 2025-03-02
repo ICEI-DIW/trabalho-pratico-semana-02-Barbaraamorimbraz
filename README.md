@@ -3,7 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Barbara Amorim Braz
+- Matricula: 889078
 
 ## Print da tela da página criad
+![alt text](<Captura de tela 2025-03-02 184043.png>)
