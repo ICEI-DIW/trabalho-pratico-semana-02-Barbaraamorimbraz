@@ -6,5 +6,5 @@
 - Nome: Barbara Amorim Braz
 - Matricula: 889078
 
-## Print da tela da página criad
-![alt text](<Captura de tela 2025-03-02 184043.png>)
+## Print da tela da página criada
+![alt text](curriculo-1.png)
