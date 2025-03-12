@@ -7,4 +7,4 @@
 - Matricula: 889078
 
 ## Print da tela da página criad
-![alt text](<Captura de tela 2025-03-02 184043.png>)
+![alt text](<curriculo.png>)
